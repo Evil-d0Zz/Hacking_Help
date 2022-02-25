@@ -3,8 +3,6 @@
     <p>A ferramenta que vai salvar sua vida em uma invasão. 😈1️⃣0️⃣1️⃣0️⃣💻</p>
 <h1>
 
-## Indice
-- [abount]
 
 ## 📚 Abount
 

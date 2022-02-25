@@ -47,7 +47,7 @@
 ![Output](https://github.com/N3w-elf/Hacking_Help/blob/master/imagens/saida_shell_rev.png)
 
 
-## ￼ License
+##  License
 
 This project is under the MIT license. 
-See the file [LICENSE](https://github.com/N3w-elf/Hacking_Help/blob/master/LICENSE) for more details.
+See the file ![LICENSE](https://github.com/N3w-elf/Hacking_Help/blob/master/LICENSE) for more details.

@@ -1,6 +1,6 @@
 <h1 align="center">
     <img src='./imagens/HACKER_HELPER.gif'/>
-    <p>A ferramenta que vai salvar sua vida em uma invasão. 😈1️⃣0️⃣1️⃣0️⃣💻</p>
+    <p>The tool that will save your life in an invasion. 😈1️⃣0️⃣1️⃣0️⃣💻</p>
 <h1>
 
 
